@@ -27,7 +27,7 @@ I created a demo app that you can use on this link:
 
 
 ### Screenshot of config
-![screenshot](assets/img/moduls.JPG)
+![screenshot](assets/img/config.JPG)
 
 <br>
 <br>
@@ -38,42 +38,48 @@ I created a demo app that you can use on this link:
 <br>
 <br>
 
+### Screenshot of Models
+![screenshot](assets/img/models.JPG)
+
+<br>
+<br>
+
 ### Screenshot of public JS
-![screenshot](assets/img/moduls.JPG)
+![screenshot](assets/img/JS.JPG)
 
 <br>
 <br>
 
 ### Screenshot of seeds
-![screenshot](assets/img/moduls.JPG)
+![screenshot](assets/img/seeds.JPG)
 
 <br>
 <br>
 
 
 ### Screenshot of utils
-![screenshot](assets/img/server.JPG)
+![screenshot](assets/img/utils.JPG)
 
 <br>
 <br>
 
 ### Screenshot of views
-![screenshot](assets/img/server.JPG)
+![screenshot](assets/img/views.JPG)
 
 <br>
 <br>
 
 ### Screenshot of server
-![screenshot](assets/img/mongoatlas.png)
+![screenshot](assets/img/server.JPG)
 
 
 ### Finished Heroku app screenshot
-![screenshot](assets/img/finalapp1.png)
+![screenshot](assets/img/final1.png)
 
 <br>
 <br>
 
 ### Finished Heroku app screenshot
-![screenshot](assets/img/finalapp2.png)
+![screenshot](assets/img/final2.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
