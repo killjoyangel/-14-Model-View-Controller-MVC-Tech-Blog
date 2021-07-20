@@ -1,0 +1,18 @@
+
+[
+    {
+      "blog_id": 1,
+      "comment_description": "This is so awesome. I can keep track of my dreams, days and make comments and even look up their meanings!",
+      "user_id": 1
+    },
+    {
+      "blog_id": 2,
+      "comment_description": "This is seriously, the best app I've ever used. It really does help pick the songs based off your mood",
+      "user_id": 2
+    },
+    {
+      "blog_id": 3,
+      "comment_description": "Awesome Game. Can't stop playing it!",
+      "user_id": 3
+    }
+  ]
