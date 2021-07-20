@@ -47,7 +47,8 @@ router.post('/login', async (req, res) => {
     res.status(400).json(err);
   }
 });
-//added signup post/////
+
+
 router.post('/signup', async (req, res) => {
   try {
     const newSignup = await User.create({
