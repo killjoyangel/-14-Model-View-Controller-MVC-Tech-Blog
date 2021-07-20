@@ -3,7 +3,7 @@
 
 
 I created a demo app that you can use on this link:
- [Tech Blog](https://guarded-cliffs-88585.herokuapp.com/?id=60f4d3c3a314c70015bf8227)
+ [Tech Blog](https://vast-tundra-79667.herokuapp.com/)
 
 <br>
 <br>
@@ -26,26 +26,44 @@ I created a demo app that you can use on this link:
 <br>
 
 
-
-### Screenshot of Model Code
+### Screenshot of config
 ![screenshot](assets/img/moduls.JPG)
 
 <br>
 <br>
 
-### Screenshot of Routes code
+### Screenshot of controllers code
 ![screenshot](assets/img/routes.JPG)
 
 <br>
 <br>
 
-### Screenshot of server
+### Screenshot of public JS
+![screenshot](assets/img/moduls.JPG)
+
+<br>
+<br>
+
+### Screenshot of seeds
+![screenshot](assets/img/moduls.JPG)
+
+<br>
+<br>
+
+
+### Screenshot of utils
 ![screenshot](assets/img/server.JPG)
 
 <br>
 <br>
 
-### Screenshot of Mongo Atlas workout database
+### Screenshot of views
+![screenshot](assets/img/server.JPG)
+
+<br>
+<br>
+
+### Screenshot of server
 ![screenshot](assets/img/mongoatlas.png)
 
 
